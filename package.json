@@ -19,6 +19,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@azure/functions": "^1.0.3",
+    "@nestjs/azure-func-http": "^0.1.2",
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
