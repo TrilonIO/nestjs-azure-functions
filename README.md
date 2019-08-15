@@ -1,6 +1,6 @@
 # Deploying Serverless NestJS to Azure Functions
 
-### Full Article on the Trilon Blog:<br> [Deploy your Serverless NestJS Application to the cloud with Azure Functions](https://trilon.io/blog/deploy-serverless-nestjs-azure-functions) 
+### Full Article on the Trilon Blog:<br> [Deploy your Serverless NestJS Application to the cloud with Azure Functions](https://trilon.io/blog/deploy-nestjs-azure-functions) 
 
 ---
 
